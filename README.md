@@ -1,7 +1,7 @@
 "database: mvc"  
-2 table
+1 table
 users : id, username, password
-comment: id, user_id, content
 
 - use pdo to connect and query
 - use model pvc for PHP
+- get all data form table users to index
